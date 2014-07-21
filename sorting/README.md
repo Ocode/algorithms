@@ -92,17 +92,64 @@
 
 ### 介绍：
 
-快速排序是由[东尼·霍尔](http://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E9%9C%8D%E7%88%BE)所发展的一种排序算法。在平均状况下，排序 n 个项目要Ο(n log n)次比较。在最坏状况下则需要Ο(n2)次比较，但这种状况并不常见。事实上，快速排序通常明显比其他Ο(n log n) 算法更快，因为它的内部循环（inner loop）可以在大部分的架构上很有效率地被实现出来，且在大部分真实世界的数据，可以决定设计的选择，减少所需时间的二次方项之可能性。
+快速排序是由[东尼·霍尔](http://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E9%9C%8D%E7%88%BE)所发展的一种排序算法([维基百科](http://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F))。在平均状况下，排序 n 个项目要Ο(n log n)次比较。在最坏状况下则需要Ο(n2)次比较，但这种状况并不常见。事实上，快速排序通常明显比其他Ο(n log n) 算法更快，因为它的内部循环（inner loop）可以在大部分的架构上很有效率地被实现出来，且在大部分真实世界的数据，可以决定设计的选择，减少所需时间的二次方项之可能性。
 
 ### 步骤：
+
+快速排序使用分治法（Divide and conquer）策略来把一个串行（list）分为两个子串行（sub-lists）。
 
 1. 从数列中挑出一个元素，称为 “基准”（pivot），重新排序数列，所有元素比基准值小的摆放在基准前面，所有元素比基准值大的摆在基准的后面（相同的数可以到任一边）。
 2. 在这个分区退出之后，该基准就处于数列的中间位置。这个称为分区（partition）操作。
 3. 递归地（recursive）把小于基准值元素的子数列和大于基准值元素的子数列排序。
 
-## 核心代码
+### 核心代码
 
-
+    function quickSort(arr,campfunc,left,right){
+        if(arguments.length <2){
+            campfunc = quickSort.comp;
+        }
+        if(arguments.length != 4){
+            left = 0;
+            right = arr.length -1;
+        }
+ 
+        if(left > right){
+            return ;
+        }
+ 
+        var index = quickSort.partition(arr,campfunc,left,right);
+        quickSort(arr,campfunc,left,index-1);
+        quickSort(arr,campfunc,index + 1, right);
+    }
+ 
+    quickSort.comp = function (a,b){
+        return a > b;
+    };
+ 
+    quickSort.swap = function (arr,lIndex,rIndex){
+        var temp = arr[lIndex];
+        arr[lIndex] = arr[rIndex];
+        arr[rIndex] = temp;
+    };
+ 
+    quickSort.partition = function (arr,campfunc,left,right){
+        var index = left;
+        var pivot = arr[index];
+        quickSort.swap(arr,index,right);
+ 
+        for(var i = left; i < right; i++){
+            if(campfunc(arr[i],pivot)){
+                quickSort.swap(arr,index++,i);
+            }
+        }
+        quickSort.swap(arr,right,index);
+        return index;
+    };
+ 
+ 
+    var arr = [5, 3, 7, 4, 1, 9, 8, 6, 2];
+    quickSort(arr,function(a,b){return a < b;});
+    console.log(arr);
 
 ### 排序效果：
 
