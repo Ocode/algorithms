@@ -1,129 +1,6 @@
 
 // TEST
 
-    if(len){
-        for(i=len; i>0; i--){
-            result = 
-        }
-    }
-
-
-
-var str=str.replace(/<\/?[^>]*>/gim,"");//去掉所有的html标记
-var result=str.replace(/(^\s+)|(\s+$)/g,"");//去掉前后空格
-return  result.replace(/\s/g,"");//去除文章中间空格
-
-
-//
-// LeetCode 
-//
-
-
-// @@
-// Reverse Words in a String
-//
-
-/* intro
-
-Given an input string, reverse the string word by word.
-
-For example,
-Given s = "the sky is blue",
-return "blue is sky the".
-
-Clarification:
-
-What constitutes a word?
-A sequence of non-space characters constitutes a word.
-
-Could the input string contain leading or trailing spaces?
-Yes. However, your reversed string should not contain leading or trailing spaces.
-
-How about multiple spaces between two words?
-Reduce them to a single space in the reversed string.
-
-**/
-
-//Method_1(使用了一些系统方法)
-function reverseWords(str){
-    var arr = str.replace(/(^\s+)|(\s+$)/g,"").split(' ');
-    return arr.reverse().join(' ');
-}
-var s = "the sky is blue ";
-reverseWords(s);
-
-//Method_2(如果不使用系统分割等方法呢)
-function reverseWords(str){
-    var arr = '';
-}
-var s = "the sky is blue";
-reverseWords(s);
-
-
-// @@
-// Evaluate Reverse Polish Notation
-//
-
-/* intro
-
-Evaluate the value of an arithmetic expression in Reverse Polish Notation.
-Valid operators are +, -, *, /. Each operand may be an integer or another expression.
-
-Some examples:
-  ["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9
-  ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
-
-**/
-
-//Method_1
-function evalRPN(tokens){
-    var returnValue = 0,
-        operators = "+-*/",
-        numsStack = [];
-    for(i=0,len = tokens.length;i<len;i++){
-        var t = tokens[i];
-        if(operators.indexOf(t)==-1){
-            //当前非运算符，则存入，否则弹出两个数字做运算并存入
-            numsStack.push(parseInt(t,10));
-            //console.log(t);
-        }else{
-            var a = parseInt(numsStack.pop(),10),
-                b = parseInt(numsStack.pop(),10);
-            switch(t){
-                case "+":
-                    numsStack.push(a+b);
-                    break;
-                case "-":
-                    numsStack.push(b-a);
-                    break;
-                case "*":
-                    numsStack.push(a*b);
-                    break;
-                case "/":
-                    if (a != 0){
-                        numsStack.push(b/a);
-                    }else{
-                        console.log("除零错误");
-                        return;
-                    }
-                    break;
-            }
-            console.log(numsStack);
-        }
-    }
-
-    returnValue = parseInt(numsStack.pop(),10);
-    return returnValue;
-}
-var input = ["2", "1", "+", "3", "*"];
-var input = ["3", "4", "2", "*", "+" ,"6", "-"];//3+4*2-6
-var input = ["3", "2", "6", "5", "-" ,"*", "+"];//3+4*2-6
-var output = evalRPN(input);
-console.log(output);
-
-//Method_2(脱式计算，即递等式计算，把计算过程完整写出来的运算，也就是脱离竖式的计算。)
-var calculation = '2+4*3';
-
 
 
 //Method_3(你可以扩展输出中间计算过程吗)
@@ -234,7 +111,7 @@ function turnRPN(input){
     //result[t] = '';
     console.log("逆波兰式：");
     console.log(result);
-    //return result;
+    return result;
 }
 
 function compvalue(){
@@ -243,23 +120,74 @@ function compvalue(){
 
 var input  = '3+2*(6-5)';
 //var input  = '2 + 3*4/2 -3*3';
-var output = turnRPN(input);
+var output1 = turnRPN(input);
+
 //console.log(output);
 
 
+
 // @@
-// Max Points on a Line
+// Evaluate Reverse Polish Notation
 //
 
 /* intro
 
-Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
+Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+Valid operators are +, -, *, /. Each operand may be an integer or another expression.
+
+Some examples:
+  ["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9
+  ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
 
 **/
 
 //Method_1
-maxPoints
+function evalRPN(tokens){
+    var returnValue = 0,
+        operators = "+-*/",
+        numsStack = [];
+    for(i=0,len = tokens.length;i<len;i++){
+        var t = tokens[i];
+        if(operators.indexOf(t)==-1){
+            //当前非运算符，则存入，否则弹出两个数字做运算并存入
+            numsStack.push(parseInt(t,10));
+            //console.log(t);
+        }else{
+            var a = parseInt(numsStack.pop(),10),
+                b = parseInt(numsStack.pop(),10);
+            switch(t){
+                case "+":
+                    numsStack.push(a+b);
+                    break;
+                case "-":
+                    numsStack.push(b-a);
+                    break;
+                case "*":
+                    numsStack.push(a*b);
+                    break;
+                case "/":
+                    if (a != 0){
+                        numsStack.push(b/a);
+                    }else{
+                        console.log("除零错误");
+                        return;
+                    }
+                    break;
+            }
+            //console.log(numsStack);
+        }
+    }
 
+    returnValue = parseInt(numsStack.pop(),10);
+    return returnValue;
+}
+var input = ["2", "1", "+", "3", "*"];
+var input = ["3", "4", "2", "*", "+" ,"6", "-"];//3+4*2-6
+var input = ["3", "2", "6", "5", "-" ,"*", "+"];//3+4*2-6
+var output = evalRPN(output1);
+console.log(output);
 
+//Method_2(脱式计算，即递等式计算，把计算过程完整写出来的运算，也就是脱离竖式的计算。)
+var calculation = '2+4*3';
 
 

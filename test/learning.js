@@ -1,11 +1,7 @@
 
 // TEST
 
-    if(len){
-        for(i=len; i>0; i--){
-            result = 
-        }
-    }
+
 
 
 
@@ -234,7 +230,7 @@ function turnRPN(input){
     //result[t] = '';
     console.log("逆波兰式：");
     console.log(result);
-    //return result;
+    return result;
 }
 
 function compvalue(){
