@@ -118,9 +118,9 @@ function compvalue(){
     
 }
 
-var input  = '3+2*(6-5)';
+//var input  = '3+2*(6-5)-1';
 //var input  = '2 + 3*4/2 -3*3';
-var output1 = turnRPN(input);
+//var output1 = turnRPN(input);
 
 //console.log(output);
 
@@ -141,7 +141,7 @@ Some examples:
 
 **/
 
-//Method_1
+//计算
 function evalRPN(tokens){
     var returnValue = 0,
         operators = "+-*/",
@@ -174,6 +174,7 @@ function evalRPN(tokens){
                     }
                     break;
             }
+            //resultHTML += ('='+  +'<br>');
             //console.log(numsStack);
         }
     }
@@ -181,13 +182,191 @@ function evalRPN(tokens){
     returnValue = parseInt(numsStack.pop(),10);
     return returnValue;
 }
-var input = ["2", "1", "+", "3", "*"];
-var input = ["3", "4", "2", "*", "+" ,"6", "-"];//3+4*2-6
-var input = ["3", "2", "6", "5", "-" ,"*", "+"];//3+4*2-6
-var output = evalRPN(output1);
-console.log(output);
+// var input = ["2", "1", "+", "3", "*"];
+// var input = ["3", "4", "2", "*", "+" ,"6", "-"];//3+4*2-6
+// var input = ["3", "2", "6", "5", "-" ,"*", "+"];//3+4*2-6
+// var output = evalRPN(output1);
+// console.log(output);
+
+
+function prnToInfix(prn){
+    //逆波兰式转为中缀表达式
+    var infixEq = {
+        "prn" : prn,
+        "stepPrn" : [],
+        "stepEqs" : [],
+        "result" : 0
+    };
+
+    var returnValue = 0,
+        tokens = prn,
+        operators = "+-*/",
+        numsStack = [];
+    infixEq.stepEqs.push(prnToEq(prn));
+    for(i=0,len = tokens.length;i<len;i++){
+        var t = tokens[i];
+        if(operators.indexOf(t)==-1){
+            //当前非运算符，则存入，否则弹出两个数字做运算并存入
+            numsStack.push(parseInt(t,10));
+            //console.log(t);
+        }else{
+            var a = parseInt(numsStack.pop(),10),
+                b = parseInt(numsStack.pop(),10);
+            switch(t){
+                case "+":
+                    numsStack.push(a+b);
+                    break;
+                case "-":
+                    numsStack.push(b-a);
+                    break;
+                case "*":
+                    numsStack.push(a*b);
+                    break;
+                case "/":
+                    if (a != 0){
+                        numsStack.push(b/a);
+                    }else{
+                        console.log("除零错误");
+                        return;
+                    }
+                    break;
+            }
+            //var index = function(){return i};
+            (function(arg,tt){
+                //console.log(tokens.slice(arg))
+                infixEq.stepPrn[arg] = numsStack.concat(tokens.slice(arg+1));
+                infixEq.stepEqs.push(prnToEq(infixEq.stepPrn[arg],tt))
+                //console.log(infixEq.stepEqs[arg]);
+            })(i,t);
+            
+            //resultHTML += ('='+  +'<br>');
+            //console.log(numsStack);
+        }
+    }
+    console.log(infixEq.stepEqs)
+    infixEq.result = parseInt(numsStack.pop(),10);
+    return infixEq;
+}
 
 //Method_2(脱式计算，即递等式计算，把计算过程完整写出来的运算，也就是脱离竖式的计算。)
-var calculation = '2+4*3';
+//var calculation = '2+4*3';
 
+
+function getTags(tags){
+    return document.getElementsByTagName(tags);
+}
+function getId(id){
+    return document.getElementById(id);
+}
+
+var inputBox = getTags('input');
+var equal = getTags('button');
+var outBox = getId('result');
+var resultHTML = '';
+
+//输入公式
+//原始等式
+
+equal[0].onclick = function(){
+    var input = inputBox[0].value || '3+4*2-6';//3+2*(6-5)-1
+    var oriEq = input;
+    //转为逆波兰式
+    var prnEq = turnRPN(input);
+    resultHTML += ('&nbsp;');
+    //计算逆波兰式
+    //var result = evalRPN(prnEq);
+    
+    //逆波兰式转为中缀表达式,并计算中间步骤
+    //console.log(prnToInfix(prnEq).stepEqs)
+    resultHTML += prnToInfix(prnEq).stepEqs.join('<br>=');
+
+    //resultHTML += ('=' + result + '<br><br>');
+    outBox.innerHTML = resultHTML;
+}
+
+
+
+
+//逆波兰式转为中缀表达式
+function prnToEq(prn){
+    var prn = prn || ["2", "3", "1", "-", "*", "4", "+"];   //["3", "4", "2", "*", "+", "6", "-"];
+    console.log(prn);
+    var returnValue = 0,
+        operators = "+-*/",
+        numsStack = [];
+    //var status = [];
+    for(i=0,len = prn.length;i<len;i++){
+        var t = prn[i];
+        if(operators.indexOf(t)==-1){
+            //当前非运算符，则存入，否则弹出两个数字做运算并存入
+            numsStack.push(String(t));
+            //console.log(t);
+        }else{
+            var a = numsStack.pop(),
+                b = numsStack.pop();
+            switch(t){
+                case "+":
+                    numsStack.push(b+ '+' +a);
+                    break;
+                case "-":
+                    numsStack.push(b+ '-' +a);
+                    break;
+                case "*":
+                    a = getOperLevel(a,'*') ? ('('+ a +')') : a;
+                    numsStack.push(b+ '*' +a);
+                    break;
+                case "/":
+                    a = getOperLevel(a,'*') ? ('('+ a +')') : a;
+                    numsStack.push(b+ '/' +a);
+                    break;
+            }
+            //resultHTML += ('='+  +'<br>');
+            //console.log(numsStack);
+        }
+    }
+
+    var result = numsStack.pop();
+    return result;
+}
+
+function getOperLevel(str,oper){
+    var level = 0;
+    //运算符等级
+    var operLevel = {
+        '(': 1,
+        ')': 1,
+        '{': 1,
+        '}': 1,
+        '[': 1,
+        ']': 1,
+        '*': 4,
+        '/': 4,
+        '%': 5,
+        '+': 6,
+        '-': 6,
+        //'&&': 12,
+        //'||': 13,
+        '=': 15,
+        '#': 20
+    };
+
+    if(str.length == 1){
+        level = operLevel[str];
+        return !oper ? level : (level > operLevel[oper]) ? true : false;
+    }
+    var opers = str.replace(/\s|\d/g,'').split('');
+
+    for(var i=0,len = opers.length;i<len;i++){
+        var temp = operLevel[opers[i]]
+        if(level < temp){
+            level = temp;
+        }
+    }
+    if(oper){
+        return (level > operLevel[oper]) ? true : false;
+    }else{
+        return level;
+    }
+}
+console.log(prnToEq());
 
