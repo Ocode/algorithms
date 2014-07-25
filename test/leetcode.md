@@ -1,6 +1,7 @@
 LeetCode OJ 题解
 ================
 
+
 LeetCode OJ 是为与写代码有关的技术工作面试者设计的训练平台。
 
 LeetCode OJ:[http://oj.leetcode.com/](http://oj.leetcode.com/)
@@ -9,6 +10,7 @@ LeetCode OJ:[http://oj.leetcode.com/](http://oj.leetcode.com/)
 
 Made By：[CSGrandeur](http://www.cnblogs.com/CSGrandeur/p/3520937.html)
 
+【注意】 这里显示MarkDown效果不好，大家要么自己下载了直接看文档，要么自己看CSGrandeur的文章吧
 
 
 Num   Add Date    Title
@@ -247,7 +249,8 @@ Max Points on a Line
  6  *     Point() : x(0), y(0) {}
  7  *     Point(int a, int b) : x(a), y(b) {}
  8  * };
- 9  */10 class Solution {
+ 9  */
+10 class Solution {
 11 public:
 12     int maxPoints(vector<Point> &points) {
 13         int ans = 0;
@@ -293,7 +296,8 @@ O(n)找到中点，把中点的next变成NULL，对两部分递归。递归结�
  5  *     ListNode *next;
  6  *     ListNode(int x) : val(x), next(NULL) {}
  7  * };
- 8  */ 9 class Solution {
+ 8  */
+ 9 class Solution {
 10 public:
 11     ListNode *sortList(ListNode *head) {
 12         int n = 0;
@@ -343,7 +347,8 @@ Insertion Sort List 指针操作很烦啊。。暴力枚举插入位置，注意
  5  *     ListNode *next;
  6  *     ListNode(int x) : val(x), next(NULL) {}
  7  * };
- 8  */ 9 class Solution {
+ 8  */
+ 9 class Solution {
 10 public:
 11     ListNode *insertionSortList(ListNode *head) {
 12         ListNode *newhead = head;
