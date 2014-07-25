@@ -270,7 +270,7 @@ var resultHTML = '';
 //原始等式
 
 equal[0].onclick = function(){
-    var input = inputBox[0].value || '22-4*(6-(2+1))+1';//'3+4*2-6';//3+2*(6-5)-1
+    var input = inputBox[0].value || '(12*2-(5+1))/2*3+(11-2*3) ';//'22-4*(6-(2+1))+1';//'3+4*2-6';//3+2*(6-5)-1
     var oriEq = input;
     //转为逆波兰式
     var prnEq = turnRPN(input);
@@ -291,7 +291,10 @@ equal[0].onclick = function(){
 
 //逆波兰式转为中缀表达式
 function prnToEq(prn){
-    var prn = prn || ["2", "3", "1", "-", "*", "4", "+"];   //["3", "4", "2", "*", "+", "6", "-"];
+    var prn = prn; //|| ["12", "2", "*", "5", "-", "1", "+", "12", "/", "13", "*", "11", "2", "3", "*", "-", "+"] ;
+    //["11", "2", "*", "100", "-", "1", "+", "12", "/", "13", "*", "11", "2", "3", "*", "-", "+"] 
+    //["2", "3", "1", "-", "*", "4", "+"];   
+    //["3", "4", "2", "*", "+", "6", "-"];
     //console.log(prn);
     var returnValue = 0,
         operators = "+-*/",
@@ -306,21 +309,21 @@ function prnToEq(prn){
         }else{
             var a = numsStack.pop()||0,
                 b = numsStack.pop()||0;
+                var temp = getOperLevel(t);
+                a = (getOperLevel(a) >= temp) ? ('('+ a +')') : a;
+                b = (getOperLevel(b) > temp) ? ('('+ b +')') : b;
+                //console.log(b);
             switch(t){
                 case "+":
-                    a = getOperLevel(a,'+') ? ('('+ a +')') : a;
                     numsStack.push(b+ '+' +a);
                     break;
                 case "-":
-                    a = getOperLevel(a,'-') ? ('('+ a +')') : a;
                     numsStack.push(b+ '-' +a);
                     break;
                 case "*":
-                    a = getOperLevel(a,'*') ? ('('+ a +')') : a;
                     numsStack.push(b+ '*' +a);
                     break;
                 case "/":
-                    a = getOperLevel(a,'*') ? ('('+ a +')') : a;
                     numsStack.push(b+ '/' +a);
                     break;
             }
@@ -356,7 +359,7 @@ function getOperLevel(str,oper){
 
     if(str.length == 1){
         level = operLevel[str];
-        return !oper ? level : (level >= operLevel[oper]) ? true : false;
+        return !oper ? level : (level > operLevel[oper]) ? true : false;
     }
     var opers = str.replace(/\s|\d|\(.+\)/g,'').split('');
 
@@ -367,10 +370,13 @@ function getOperLevel(str,oper){
         }
     }
     if(oper){
-        return (level >= operLevel[oper]) ? true : false;
+        return (level > operLevel[oper]) ? true : false;
     }else{
         return level;
     }
 }
-console.log(prnToEq());
+
+var aaa = '(12*2-(5+1))/2*3+(11-2*3)';
+var aaa = turnRPN(aaa)
+console.log(prnToEq(aaa));
 
