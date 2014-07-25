@@ -13,157 +13,157 @@ Made By：[CSGrandeur](http://www.cnblogs.com/CSGrandeur/p/3520937.html)
 
 Num   Add Date    Title
 
-151   2014/03/05  Reverse Words in a String
-150   2013/11/27  Evaluate Reverse Polish Notation
-149   2013/11/22  Max Points on a Line
-148   2013/11/16  Sort List
-147   2013/11/12  Insertion Sort List
-146   2013/11/09  LRU Cache
-145   2013/11/07  Binary Tree Postorder Traversal
-144   2013/11/05  Binary Tree Preorder Traversal
-143   2013/11/02  Reorder List
-142   2013/10/30  Linked List Cycle II
-141   2013/10/28  Linked List Cycle
-140   2013/10/05  Word Break II
-139   2013/10/04  Word Break
-138   2013/10/03  Copy List with Random Pointer
-137   2013/10/02  Single Number II
-136   2013/10/01  Single Number
-135   2013/09/30  Candy
-134   2013/09/28  Gas Station
-133   2013/09/24  Clone Graph
-132   2013/02/28  Palindrome Partitioning II
-131   2013/02/27  Palindrome Partitioning
-130   2013/02/21  Surrounded Regions
-129   2013/02/18  Sum Root to Leaf Numbers
-128   2013/02/13  Longest Consecutive Sequence
-127   2013/02/10  Word Ladder II
-126   2013/02/10  Word Ladder
-125   2013/01/12  Valid Palindrome
-124   2012/11/07  Binary Tree Maximum Path Sum
-123   2012/11/06  Best Time to Buy and Sell Stock III
-122   2012/10/30  Best Time to Buy and Sell Stock II
-121   2012/10/30  Best Time to Buy and Sell Stock
-120   2012/10/29  Triangle
-119   2012/10/28  Pascal's Triangle II
-118   2012/10/28  Pascal's Triangle
-117   2012/10/28  Populating Next Right Pointers in Each Node II
-116   2012/10/28  Populating Next Right Pointers in Each Node
-115   2012/10/18  Distinct Subsequences
-114   2012/10/14  Flatten Binary Tree to Linked List
-113   2012/10/14  Path Sum II
-112   2012/10/13  Path Sum
-111   2012/10/09  Minimum Depth of Binary Tree
-110   2012/10/08  Balanced Binary Tree
-109   2012/10/02  Convert Sorted List to Binary Search Tree
-108   2012/10/02  Convert Sorted Array to Binary Search Tree
-107   2012/10/01  Binary Tree Level Order Traversal II
-106   2012/09/30  Construct Binary Tree from Inorder and Postorder Traversal
-105   2012/09/30  Construct Binary Tree from Preorder and Inorder Traversal
-104   2012/09/29  Maximum Depth of Binary Tree
-103   2012/09/28  Binary Tree Zigzag Level Order Traversal
-102   2012/09/28  Binary Tree Level Order Traversal
-101   2012/09/23  Symmetric Tree
-100   2012/09/03  Same Tree
-99    2012/09/01  Recover Binary Search Tree
-98    2012/08/31  Validate Binary Search Tree
-97    2012/08/30  Interleaving String
-96    2012/08/27  Unique Binary Search Trees II
-95    2012/08/27  Unique Binary Search Trees
-94    2012/08/27  Binary Tree Inorder Traversal
-93    2012/08/07  Restore IP Addresses
-92    2012/06/27  Reverse Linked List II
-91    2012/06/25  Subsets II
-90    2012/06/25  Decode Ways
-89    2012/05/20  Gray Code
-88    2012/05/20  Merge Sorted Array
-87    2012/04/30  Scramble String
-86    2012/04/30  Partition List
-85    2012/04/23  Maximal Rectangle
-84    2012/04/22  Largest Rectangle in Histogram
-83    2012/04/22  Remove Duplicates from Sorted List II
-82    2012/04/22  Remove Duplicates from Sorted List
-81    2012/04/19  Search in Rotated Sorted Array II
-80    2012/04/19  Remove Duplicates from Sorted Array II
-79    2012/04/18  Word Search
-78    2012/04/18  Subsets
-77    2012/04/18  Combinations
-76    2012/04/15  Minimum Window Substring
-75    2012/04/08  Sort Colors
-74    2012/04/06  Search a 2D Matrix
-73    2012/04/05  Set Matrix Zeroes
-72    2012/04/04  Edit Distance
-71    2012/04/03  Simplify Path
-70    2012/04/03  Climbing Stairs
-69    2012/04/03  Sqrt(x)
-68    2012/04/03  Text Justification
-67    2012/04/02  Plus One
-66    2012/04/02  Valid Number
-65    2012/04/02  Add Binary
-64    2012/03/30  Merge Two Sorted Lists
-63    2012/03/28  Minimum Path Sum
-62    2012/03/28  Unique Paths II
-61    2012/03/28  Unique Paths
-60    2012/03/27  Rotate List
-59    2012/03/27  Permutation Sequence
-58    2012/03/27  Spiral Matrix II
-57    2012/03/27  Length of Last Word
-56    2012/03/27  Insert Interval
-55    2012/03/26  Merge Intervals
-54    2012/03/24  Jump Game
-53    2012/03/24  Spiral Matrix
-52    2012/03/21  Maximum Subarray
-51    2012/03/20  N-Queens II
-50    2012/03/19  N-Queens
-49    2012/03/19  Pow(x, n)
-48    2012/03/19  Anagrams
-47    2012/03/17  Rotate Image
-46    2012/03/16  Permutations II
-45    2012/03/16  Permutations
-44    2012/03/16  Jump Game II
-43    2012/03/15  Wildcard Matching
-42    2012/03/12  Multiply Strings
-41    2012/03/10  Trapping Rain Water
-40    2012/03/08  First Missing Positive
-39    2012/03/06  Combination Sum II
-38    2012/03/06  Combination Sum
-37    2012/03/05  Count and Say
-36    2012/03/04  Sudoku Solver
-35    2012/03/03  Valid Sudoku
-34    2012/03/03  Search Insert Position
-33    2012/03/02  Search for a Range
-32    2012/03/02  Search in Rotated Sorted Array
-31    2012/02/29  Longest Valid Parentheses
-30    2012/02/25  Next Permutation
-29    2012/02/23  Substring with Concatenation of All Words
-28    2012/02/18  Divide Two Integers
-27    2012/02/18  Implement strStr()
-26    2012/02/16  Remove Element
-25    2012/02/16  Remove Duplicates from Sorted Array
-24    2012/02/15  Reverse Nodes in k-Group
-23    2012/02/14  Swap Nodes in Pairs
-22    2012/02/13  Merge k Sorted Lists
-21    2012/02/12  Generate Parentheses
-20    2012/01/30  Valid Parentheses
-19    2012/01/27  Remove Nth Node From End of List
-18    2012/01/26  Letter Combinations of a Phone Number
-17    2012/01/26  4Sum
-16    2012/01/18  3Sum Closest
-15    2012/01/17  3Sum
-14    2012/01/17  Longest Common Prefix
-13    2012/01/15  Roman to Integer
-12    2012/01/15  Integer to Roman
-11    2012/01/08  Container With Most Water
-10    2012/01/08  Regular Expression Matching
-9     2012/01/04  Palindrome Number
-8     2011/12/26  String to Integer (atoi)
-7     2011/12/25  Reverse Integer
-6     2011/12/05  ZigZag Conversion
-5     2011/11/11  Longest Palindromic Substring
-4     2011/11/01  Add Two Numbers
-3     2011/05/15  Longest Substring Without Repeating Characters
-2     2011/03/27  Median of Two Sorted Arrays
-1     2011/03/13  Two Sum
+151.   2014/03/05  Reverse Words in a String
+150.   2013/11/27  Evaluate Reverse Polish Notation
+149.   2013/11/22  Max Points on a Line
+148.   2013/11/16  Sort List
+147.   2013/11/12  Insertion Sort List
+146.   2013/11/09  LRU Cache
+145.   2013/11/07  Binary Tree Postorder Traversal
+144.   2013/11/05  Binary Tree Preorder Traversal
+143.   2013/11/02  Reorder List
+142.   2013/10/30  Linked List Cycle II
+141.   2013/10/28  Linked List Cycle
+140.   2013/10/05  Word Break II
+139.   2013/10/04  Word Break
+138.   2013/10/03  Copy List with Random Pointer
+137.   2013/10/02  Single Number II
+136.   2013/10/01  Single Number
+135.   2013/09/30  Candy
+134.   2013/09/28  Gas Station
+133.   2013/09/24  Clone Graph
+132.   2013/02/28  Palindrome Partitioning II
+131.   2013/02/27  Palindrome Partitioning
+130.   2013/02/21  Surrounded Regions
+129.   2013/02/18  Sum Root to Leaf Numbers
+128.   2013/02/13  Longest Consecutive Sequence
+127.   2013/02/10  Word Ladder II
+126.   2013/02/10  Word Ladder
+125.   2013/01/12  Valid Palindrome
+124.   2012/11/07  Binary Tree Maximum Path Sum
+123.   2012/11/06  Best Time to Buy and Sell Stock III
+122.   2012/10/30  Best Time to Buy and Sell Stock II
+121.   2012/10/30  Best Time to Buy and Sell Stock
+120.   2012/10/29  Triangle
+119.   2012/10/28  Pascal's Triangle II
+118.   2012/10/28  Pascal's Triangle
+117.   2012/10/28  Populating Next Right Pointers in Each Node II
+116.   2012/10/28  Populating Next Right Pointers in Each Node
+115.   2012/10/18  Distinct Subsequences
+114.   2012/10/14  Flatten Binary Tree to Linked List
+113.   2012/10/14  Path Sum II
+112.   2012/10/13  Path Sum
+111.   2012/10/09  Minimum Depth of Binary Tree
+110.   2012/10/08  Balanced Binary Tree
+109.   2012/10/02  Convert Sorted List to Binary Search Tree
+108.   2012/10/02  Convert Sorted Array to Binary Search Tree
+107.   2012/10/01  Binary Tree Level Order Traversal II
+106.   2012/09/30  Construct Binary Tree from Inorder and Postorder Traversal
+105.   2012/09/30  Construct Binary Tree from Preorder and Inorder Traversal
+104.   2012/09/29  Maximum Depth of Binary Tree
+103.   2012/09/28  Binary Tree Zigzag Level Order Traversal
+102.   2012/09/28  Binary Tree Level Order Traversal
+101.   2012/09/23  Symmetric Tree
+100.   2012/09/03  Same Tree
+99.    2012/09/01  Recover Binary Search Tree
+98.    2012/08/31  Validate Binary Search Tree
+97.    2012/08/30  Interleaving String
+96.    2012/08/27  Unique Binary Search Trees II
+95.    2012/08/27  Unique Binary Search Trees
+94.    2012/08/27  Binary Tree Inorder Traversal
+93.    2012/08/07  Restore IP Addresses
+92.    2012/06/27  Reverse Linked List II
+91.    2012/06/25  Subsets II
+90.    2012/06/25  Decode Ways
+89.    2012/05/20  Gray Code
+88.    2012/05/20  Merge Sorted Array
+87.    2012/04/30  Scramble String
+86.    2012/04/30  Partition List
+85.    2012/04/23  Maximal Rectangle
+84.    2012/04/22  Largest Rectangle in Histogram
+83.    2012/04/22  Remove Duplicates from Sorted List II
+82.    2012/04/22  Remove Duplicates from Sorted List
+81.    2012/04/19  Search in Rotated Sorted Array II
+80.    2012/04/19  Remove Duplicates from Sorted Array II
+79.    2012/04/18  Word Search
+78.    2012/04/18  Subsets
+77.    2012/04/18  Combinations
+76.    2012/04/15  Minimum Window Substring
+75.    2012/04/08  Sort Colors
+74.    2012/04/06  Search a 2D Matrix
+73.    2012/04/05  Set Matrix Zeroes
+72.    2012/04/04  Edit Distance
+71.    2012/04/03  Simplify Path
+70.    2012/04/03  Climbing Stairs
+69.    2012/04/03  Sqrt(x)
+68.    2012/04/03  Text Justification
+67.    2012/04/02  Plus One
+66.    2012/04/02  Valid Number
+65.    2012/04/02  Add Binary
+64.    2012/03/30  Merge Two Sorted Lists
+63.    2012/03/28  Minimum Path Sum
+62.    2012/03/28  Unique Paths II
+61.    2012/03/28  Unique Paths
+60.    2012/03/27  Rotate List
+59.    2012/03/27  Permutation Sequence
+58.    2012/03/27  Spiral Matrix II
+57.    2012/03/27  Length of Last Word
+56.    2012/03/27  Insert Interval
+55.    2012/03/26  Merge Intervals
+54.    2012/03/24  Jump Game
+53.    2012/03/24  Spiral Matrix
+52.    2012/03/21  Maximum Subarray
+51.    2012/03/20  N-Queens II
+50.    2012/03/19  N-Queens
+49.    2012/03/19  Pow(x, n)
+48.    2012/03/19  Anagrams
+47.    2012/03/17  Rotate Image
+46.    2012/03/16  Permutations II
+45.    2012/03/16  Permutations
+44.    2012/03/16  Jump Game II
+43.    2012/03/15  Wildcard Matching
+42.    2012/03/12  Multiply Strings
+41.    2012/03/10  Trapping Rain Water
+40.    2012/03/08  First Missing Positive
+39.    2012/03/06  Combination Sum II
+38.    2012/03/06  Combination Sum
+37.    2012/03/05  Count and Say
+36.    2012/03/04  Sudoku Solver
+35.    2012/03/03  Valid Sudoku
+34.    2012/03/03  Search Insert Position
+33.    2012/03/02  Search for a Range
+32.    2012/03/02  Search in Rotated Sorted Array
+31.    2012/02/29  Longest Valid Parentheses
+30.    2012/02/25  Next Permutation
+29.    2012/02/23  Substring with Concatenation of All Words
+28.    2012/02/18  Divide Two Integers
+27.    2012/02/18  Implement strStr()
+26.    2012/02/16  Remove Element
+25.    2012/02/16  Remove Duplicates from Sorted Array
+24.    2012/02/15  Reverse Nodes in k-Group
+23.    2012/02/14  Swap Nodes in Pairs
+22.    2012/02/13  Merge k Sorted Lists
+21.    2012/02/12  Generate Parentheses
+20.    2012/01/30  Valid Parentheses
+19.    2012/01/27  Remove Nth Node From End of List
+18.    2012/01/26  Letter Combinations of a Phone Number
+17.    2012/01/26  4Sum
+16.    2012/01/18  3Sum Closest
+15.    2012/01/17  3Sum
+14.    2012/01/17  Longest Common Prefix
+13.    2012/01/15  Roman to Integer
+12.    2012/01/15  Integer to Roman
+11.    2012/01/08  Container With Most Water
+10.    2012/01/08  Regular Expression Matching
+9.     2012/01/04  Palindrome Number
+8.     2011/12/26  String to Integer (atoi)
+7.     2011/12/25  Reverse Integer
+6.     2011/12/05  ZigZag Conversion
+5.     2011/11/11  Longest Palindromic Substring
+4.     2011/11/01  Add Two Numbers
+3.     2011/05/15  Longest Substring Without Repeating Characters
+2.     2011/03/27  Median of Two Sorted Arrays
+1.     2011/03/13  Two Sum
 
 
 
@@ -172,7 +172,7 @@ Reverse Words in a String
  先翻转整个字符串，然后从前往后一个单词一个单词地再翻转一次，同时去除多余空格，等于是扫描两遍，O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void reverseWords(string &s) {
@@ -190,7 +190,7 @@ Reverse Words in a String
 15         s.resize(j);
 16     }
 17 };
-
+</pre>
  
 
 Evaluate Reverse Polish Notation
@@ -198,7 +198,7 @@ Evaluate Reverse Polish Notation
 逆波兰表达式计算四则运算。用栈。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int evalRPN(vector<string> &tokens) {
@@ -224,7 +224,7 @@ Evaluate Reverse Polish Notation
 23         return s.top();
 24     }
 25 };
-
+</pre>
  
 
 Max Points on a Line
@@ -238,7 +238,8 @@ Max Points on a Line
 
 再另外就是重叠的点了，想让题目坑一点，怎能少得了这种数据，单独处理一下。
 
-1 /**
+<pre>
+ 1 /**
  2  * Definition for a point.
  3  * struct Point {
  4  *     int x;
@@ -275,7 +276,7 @@ Max Points on a Line
 36         return a ? gcd(b % a, a) : b;
 37     }
 38 };
-
+</pre>
 
  
 
@@ -283,6 +284,8 @@ Sort List 又长见识了，原来链表也可以O(nlogn)排序的。没往下�
 O(n)找到中点，把中点的next变成NULL，对两部分递归。递归结束后对两部分归并，先找到newhead，即两部分的头部val较小的那个，然后归并就把小的从newhead往后续。
 把最后的next赋值NULL，返回newhead。
 又有空数据@_@.
+
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -328,9 +331,11 @@ O(n)找到中点，把中点的next变成NULL，对两部分递归。递归结�
 45         return newhead;
 46     }
 47 };
-
+</pre>
  
 Insertion Sort List 指针操作很烦啊。。暴力枚举插入位置，注意细节就能过了。
+
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -370,7 +375,7 @@ Insertion Sort List 指针操作很烦啊。。暴力枚举插入位置，注意
 38     }
 39     
 40 };
-
+</pre>
 
 
 
@@ -384,7 +389,7 @@ O(n)找到中点，把中点的next变成NULL，对两部分递归。递归结�
 又有空数据@_@.
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -432,14 +437,14 @@ O(n)找到中点，把中点的next变成NULL，对两部分递归。递归结�
 45         return newhead;
 46     }
 47 };
-
+</pre>
  
 
 Insertion Sort List
  指针操作很烦啊。。暴力枚举插入位置，注意细节就能过了。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -480,7 +485,7 @@ Insertion Sort List
 38     }
 39     
 40 };
-
+</pre>
  
 
 LRU Cache
@@ -492,7 +497,7 @@ LRU Cache
 有一个博客的方法更好，map中存的是链表的节点指针，链表顺序表示访问情况，这样就把map内容和链表的每个节点一一对应了，没有冗余节点，且更新操作也是O(1)的。
 
 
-
+<pre>
  1 class Val{
  2 public:
  3     int key;
@@ -550,14 +555,14 @@ LRU Cache
 55         }
 56     }
 57 };
-
+</pre>
  
 
 Binary Tree Postorder Traversal
  二叉树的非递归后序遍历，考研的时候非常熟悉了，现在写又要想好久。重点是关于右子树遍历时候需要一个标记，或者标记根节点出栈次数，或者标记右子树是否访问。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -594,14 +599,14 @@ Binary Tree Postorder Traversal
 34         return ans;
 35     }
 36 };
-
+</pre>
  
 
 Binary Tree Preorder Traversal
  前序遍历的非递归就容易多了。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -628,14 +633,14 @@ Binary Tree Preorder Traversal
 24         }
 25     }
 26 };
-
+</pre>
   
 
 Reorder List
 找到中间位置，把中间之后的链表反转，两个指针一个从头一个从尾开始互插，奇偶和指针绕得有点晕，理清就好了。。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -677,7 +682,7 @@ Reorder List
 39         p->next = NULL;
 40     }
 41 };
-
+</pre>
  
 
 Linked List Cycle II
@@ -699,7 +704,7 @@ n = k + t + pm; (1)
 因此这时候，一个指针从head开始，另一个从相遇位置开始，都每次只走一步，当从head开始的指针走到圈开始位置时，两指针刚好相遇。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -731,14 +736,14 @@ n = k + t + pm; (1)
 29         return fast;
 30     }
 31 };
-
+</pre>
  
 
 Linked List Cycle
  呃，时间逆序做的结果。。。成买一送一了。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -767,7 +772,7 @@ Linked List Cycle
 26         return true;
 27     }
 28 };
-
+</pre>
  
 
 Word Break II
@@ -778,7 +783,7 @@ Word Break II
 完成site之后，从尾部倒着DFS过去就得到了所有串。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<string> DFS(const string &s, vector<int> *site, int ith)
@@ -815,14 +820,14 @@ Word Break II
 34         return DFS(s, site, s.length());
 35     }
 36 };
-
+</pre>
  
 
 Word Break
  参考Word Break II，对于dp标记，当dp[i]为true时候可以停止枚举后面的 j，优化一下常数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool wordBreak(string s, unordered_set<string> &dict) {
@@ -837,7 +842,7 @@ Word Break
 12             return dp[s.length()];
 13     }
 14 };
-
+</pre>
  
 
 Copy List with Random Pointer
@@ -848,7 +853,7 @@ Copy List with Random Pointer
 第三次遍历，把两个链表拆开，恢复原链表。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list with a random pointer.
  3  * struct RandomListNode {
@@ -888,14 +893,14 @@ Copy List with Random Pointer
 37         return newhead;
 38     }
 39 };
-
+</pre>
  
 
 Single Number II
 方法一：设置cnt[32]记录 32个比特位的1的个数，出现3次的数的对应位的1总数为3的倍数，则统计之后每个位对3取模，剩下的位为1的则对应个数为1的那个数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int singleNumber(int A[], int n) {
@@ -912,11 +917,13 @@ Single Number II
 14         return ans;
 15     }
 16 };
+</pre>
+
 
 方法二：设置int one, two模拟两位二进制来统计各比特位1次数，每当one和two对应二进制位都为1的时候把one和two都清零，最后剩下的one就是要求的数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int singleNumber(int A[], int n) {
@@ -932,7 +939,7 @@ Single Number II
 13         return one;
 14     }
 15 };
-
+</pre>
  
 
 Single Number
@@ -940,7 +947,7 @@ Single Number
  一路异或过去就可以了。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     int singleNumber(int A[], int n) {
@@ -950,7 +957,7 @@ Single Number
 7         return tmp;
 8     }
 9 };
-
+</pre>
  
 
 Candy
@@ -959,7 +966,7 @@ Candy
 上坡一步步来，下坡走个等差数列，波峰位置比较一下上坡时候记录的最大值和下坡求的的最大值，取较大的，具体看代码：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int candy(vector<int> &ratings) {
@@ -987,7 +994,7 @@ Candy
 25         return cnt;
 26     }
 27 };
-
+</pre>
  
 
 Gas Station
@@ -1004,7 +1011,7 @@ Gas Station
 也反证一下，k + 1 出发，到gas.size() - 1都为正，则转回来到 j - 1 都会为正。如果到 j 时候为负，则整个环不可能为正，所以到 j 的时候也为正，剩下的一样。这样就能够成功转一圈。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int canCompleteCircuit(vector<int> &gas, vector<int> &cost) {
@@ -1022,14 +1029,14 @@ Gas Station
 15        return all >= 0 ? ans : -1;
 16     }
 17 };
-
+</pre>
  
 
 Clone Graph
  label是唯一的，递归，用unordered_map标记。
 
 
-
+<pre>
  1 /**
  2  * Definition for undirected graph.
  3  * struct UndirectedGraphNode {
@@ -1053,7 +1060,7 @@ Clone Graph
 21         return tmp;
 22     }
 23 };
-
+</pre>
  
 
 Palindrome Partitioning II
@@ -1068,7 +1075,7 @@ paldp[i][j] == true 表示 i ~ j 是回文。
 cutdp[i]为所有 j (j < i)，当paldp[j + 1][i] == true的 cutdp[j] + 1的最小值。注意一下边界。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int minCut(string s) {
@@ -1092,7 +1099,7 @@ cutdp[i]为所有 j (j < i)，当paldp[j + 1][i] == true的 cutdp[j] + 1的最�
 21         return cutdp[s.length() - 1];
 22     }
 23 };
-
+</pre>
  
 
 Palindrome Partitioning
@@ -1101,7 +1108,7 @@ Palindrome Partitioning
 得到paldp之后，DFS一下就可以了。因为单字符是回文，所以DFS的终点肯定都是解，所以不必利用其他的结构存储答案信息。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<string> >res;
@@ -1136,14 +1143,14 @@ Palindrome Partitioning
 32         return res;
 33     }
 34 };
-
+</pre>
  
 
 Surrounded Regions
  周围四条边的O做起点搜索替换为第三种符号，再遍历所有符号把O换成X，第三种符号换回O。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     typedef pair<int, int> pii;
@@ -1191,14 +1198,14 @@ Surrounded Regions
 45             }
 46     }
 47 };
-
+</pre>
  
 
 Sum Root to Leaf Numbers
  遍历一遍加起来。。。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1234,14 +1241,14 @@ Sum Root to Leaf Numbers
 33         return ans;
 34     }
 35 };
-
+</pre>
  
 
 Longest Consecutive Sequence
  方法一：一开始竟然想了并查集，其实绕弯了，多此一举。哈希+并查集，把每个数哈希，枚举每个数看相邻的数在不在数组里，并查集合并，只是并查集的复杂度要比O(1)大一些。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     unordered_map<int, int> mp, cnt;
@@ -1265,13 +1272,15 @@ Longest Consecutive Sequence
 21         return ans;
 22     }
 23 };
+</pre>
+
 
 方法二：哈希+枚举相邻数。相邻的数在数组里的话，每个数之多访问一次；相邻的数不在数组里的话，枚举会中断。所以设哈希复杂度为O(1)的话，这个方法是严格的O(n)。
 
 其实这个题的数据挺善良，如果出了2147483647, -2147483648，那还是用long long 稳妥些。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     unordered_map<int, bool> vis;
@@ -1299,7 +1308,7 @@ Longest Consecutive Sequence
 25         return ans;
 26     }
 27 };
-
+</pre>
  
 
  
@@ -1312,7 +1321,7 @@ Word Ladder II
 想更快就双向广搜吧。让我想起了POJ那个八数码。
 
 
-
+<pre>
  1 class Node
  2 {
  3 public:
@@ -1366,14 +1375,14 @@ Word Ladder II
 51         return ans;
 52     }
 53 };
-
+</pre>
  
 
 Word Ladder
  直接BFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int ladderLength(string start, string end, unordered_set<string> &dict) {
@@ -1403,7 +1412,7 @@ Word Ladder
 27         return 0;
 28     }
 29 };
-
+</pre>
  
 
 Valid Palindrome
@@ -1411,7 +1420,7 @@ Valid Palindrome
  做过刘汝佳 白书的人想必都知道ctype.h和isdigit(), isalpha, tolower(), toupper()。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool valid(char &x)
@@ -1430,7 +1439,7 @@ Valid Palindrome
 16         return true;
 17     }
 18 };
-
+</pre>
  
 
 Binary Tree Maximum Path Sum
@@ -1443,7 +1452,7 @@ Binary Tree Maximum Path Sum
 四种情况更新完ans后，now返回上一层只能是 now->valid或左边一路上来或右边一路上来，三种情况。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1471,7 +1480,7 @@ Binary Tree Maximum Path Sum
 25         return ans;
 26     }
 27 };
-
+</pre>
  
 
 Best Time to Buy and Sell Stock III
@@ -1484,7 +1493,7 @@ Best Time to Buy and Sell Stock III
 总复杂度O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maxProfit(vector<int> &prices) {
@@ -1505,14 +1514,14 @@ Best Time to Buy and Sell Stock III
 18         return ans;
 19     }
 20 };
-
+</pre>
  
 
 Best Time to Buy and Sell Stock II
  可以买卖多次，把所有上坡差累加即可。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maxProfit(vector<int> &prices) {
@@ -1525,14 +1534,14 @@ Best Time to Buy and Sell Stock II
 10         return ans;
 11     }
 12 };
-
+</pre>
  
 
 Best Time to Buy and Sell Stock
  维护前（后）缀最小（大）值，和当前prices做差更新答案。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maxProfit(vector<int> &prices) {
@@ -1545,7 +1554,7 @@ Best Time to Buy and Sell Stock
 10         return ans;
 11     }
 12 };
-
+</pre>
  
 
 Triangle
@@ -1554,7 +1563,7 @@ Triangle
 从下往上递推，一维数组滚动更新即可。这里懒省事，直接把原数组改了。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int minimumTotal(vector<vector<int> > &triangle) {
@@ -1566,14 +1575,14 @@ Triangle
  9         return triangle.size() == 0 ? 0 : triangle[0][0];
 10     }
 11 };
-
+</pre>
  
 
 Pascal's Triangle II
  滚动数组递推，从后往前以便不破坏上一层递推数据。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> getRow(int rowIndex) {
@@ -1589,14 +1598,14 @@ Pascal's Triangle II
 13         return ans;
 14     }
 15 };
-
+</pre>
  
 
 Pascal's Triangle
  递推。。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<int> > generate(int numRows) {
@@ -1613,7 +1622,7 @@ Pascal's Triangle
 14         return v;
 15     }
 16 };
-
+</pre>
  
 
 Populating Next Right Pointers in Each Node II
@@ -1622,7 +1631,7 @@ Populating Next Right Pointers in Each Node II
 本题可以利用生成的next指针来横向扫描，即得到一层的next指针之后，可以利用这一层的next指针来给下一层的next指针赋值。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree with next pointer.
  3  * struct TreeLinkNode {
@@ -1661,14 +1670,14 @@ Populating Next Right Pointers in Each Node II
 36         }
 37     }
 38 };
-
+</pre>
  
 
 Populating Next Right Pointers in Each Node
  不用考虑连续的空指针，就不用额外实现找下一个子树非空节点，比Populating Next Right Pointers in Each Node II 容易处理。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree with next pointer.
  3  * struct TreeLinkNode {
@@ -1696,7 +1705,7 @@ Populating Next Right Pointers in Each Node
 25         }
 26     }
 27 };
-
+</pre>
  
 
 Distinct Subsequences
@@ -1709,7 +1718,7 @@ Distinct Subsequences
 二、判断 S 的第 i + 1 个字符是否和 T 的第 j + 1 个字符相同，如果相同，则加上dp[i][j]，否则不加。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int numDistinct(string S, string T) {
@@ -1728,7 +1737,7 @@ Distinct Subsequences
 16         return dp[S.length()][T.length()];
 17     }
 18 };
-
+</pre>
  
 
 Flatten Binary Tree to Linked List
@@ -1737,7 +1746,7 @@ Flatten Binary Tree to Linked List
 后序遍历一遍即可，递归返回子树中尾节点指针，注意各种条件判断。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1769,7 +1778,7 @@ Flatten Binary Tree to Linked List
 29         DFS(root);
 30     }
 31 };
-
+</pre>
  
 
 Path Sum II
@@ -1777,7 +1786,7 @@ Path Sum II
  传统递归，把路径上的数字插入vector，终点判断是否插入答案。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1815,12 +1824,15 @@ Path Sum II
 35         return v;
 36     }
 37 };
+</pre>
+
+
 
 Path Sum
 遍历树。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1846,7 +1858,7 @@ Path Sum
 23         return DFS(root, 0);
 24     }
 25 };
-
+</pre>
  
 
 Minimum Depth of Binary Tree
@@ -1854,7 +1866,7 @@ Minimum Depth of Binary Tree
  还是遍历。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1873,7 +1885,7 @@ Minimum Depth of Binary Tree
 16         else return min(minDepth(root->left), minDepth(root->right)) + 1;
 17     }
 18 };
-
+</pre>
  
 
 Balanced Binary Tree
@@ -1881,7 +1893,7 @@ Balanced Binary Tree
 遍历。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1904,7 +1916,7 @@ Balanced Binary Tree
 20         return maxDepth(root) >= 0;
 21     }
 22 };
-
+</pre>
  
 
 Convert Sorted List to Binary Search Tree
@@ -1912,7 +1924,7 @@ Convert Sorted List to Binary Search Tree
 每次找中点作为根节点，将两边递归，返回根节点指针作为左右节点。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -1950,14 +1962,14 @@ Convert Sorted List to Binary Search Tree
 35         return root;
 36     }
 37 };
-
+</pre>
   
 
 Convert Sorted Array to Binary Search Tree
  递归做，比链表的容易些。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -1981,7 +1993,7 @@ Convert Sorted Array to Binary Search Tree
 21         return convert(num, 0, num.size());
 22     }
 23 };
-
+</pre>
   
 
 Binary Tree Level Order Traversal II
@@ -1990,7 +2002,7 @@ Binary Tree Level Order Traversal II
 本以为这题亮点是如何一遍实现从底向上顺序的vector，AC之后上网一查也全是最后把vector翻转的。。。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2018,7 +2030,7 @@ Binary Tree Level Order Traversal II
 25         return v;
 26     }
 27 };
-
+</pre>
  
 
 Construct Binary Tree from Inorder and Postorder Traversal
@@ -2027,7 +2039,7 @@ Construct Binary Tree from Inorder and Postorder Traversal
 数据结构经典题。后序遍历的结尾是根节点 Proot，在中序遍历中找到这个节点 Iroot，则 Iroot两边即为左右子树。根据左右子树节点个数，在后序遍历中找到左右子树分界（左右子树肯定不交叉），则几个关键分界点都找到了，对左右子树递归。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2054,14 +2066,14 @@ Construct Binary Tree from Inorder and Postorder Traversal
 24         return build(inorder, 0, inorder.size(), postorder, 0, postorder.size());
 25     }
 26 };
-
+</pre>
  
 
 Construct Binary Tree from Preorder and Inorder Traversal
  和上一题Construct Binary Tree from Inorder and Postorder Traversal方法一样，前序和后序的信息作用相同。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2089,7 +2101,7 @@ Construct Binary Tree from Preorder and Inorder Traversal
 25         
 26     }
 27 };
-
+</pre>
  
 
 Maximum Depth of Binary Tree
@@ -2097,7 +2109,7 @@ Maximum Depth of Binary Tree
  遍历。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2116,14 +2128,14 @@ Maximum Depth of Binary Tree
 16         return max(maxDepth(root->left), maxDepth(root->right)) + 1;
 17     }
 18 };
-
+</pre>
  
 
 Binary Tree Zigzag Level Order Traversal
  BFS，奇偶层轮流走，一层左到右，一层右到左。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2166,7 +2178,7 @@ Binary Tree Zigzag Level Order Traversal
 40         return ans;
 41     }
 42 };
-
+</pre>
  
 
 Binary Tree Level Order Traversal
@@ -2175,7 +2187,7 @@ Binary Tree Level Order Traversal
 只用一个队列的话，增加个层数信息存队列里即可。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2218,14 +2230,14 @@ Binary Tree Level Order Traversal
 40         return ans;
 41     }
 42 };
-
+</pre>
  
 
 Symmetric Tree
 递归：左指针和右指针，对称递归，即“左的左”和“右的右”对应，“左的右”和“右的左”对应。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2255,11 +2267,13 @@ Symmetric Tree
 27         return judge(root->left, root->right);
 28     }
 29 };
+</pre>
+
 
 非递归：左右子树分别做一个队列，同步遍历。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2301,14 +2315,14 @@ Symmetric Tree
 39         return true;
 40     }
 41 };
-
+</pre>
  
 
 Same Tree
  同步遍历，比较判断。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2326,7 +2340,7 @@ Same Tree
 15         return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
 16     }
 17 };
-
+</pre>
  
 
 Recover Binary Search Tree
@@ -2334,7 +2348,7 @@ Recover Binary Search Tree
  中序遍历是二叉查找树的顺序遍历，*a, *b表示前驱节点和当前节点，因为只有一对数值翻转了，所以肯定会遇到前驱节点val比当前节点val大的情况一次或两次，遇到一次表示翻转的是相邻的两个节点。*ans1和*ans2指向两个被翻转的节点，当遇到前驱val比当前val大的情况时候，根据第一次还是第二次给ans1和ans2赋值，最终翻转回来。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2369,14 +2383,14 @@ Recover Binary Search Tree
 32         swap(ans1->val, ans2->val);
 33     }
 34 };
-
+</pre>
  
 
 Validate Binary Search Tree
  中序遍历，更新前驱节点，与当前节点比较。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2398,7 +2412,7 @@ Validate Binary Search Tree
 19         return true;
 20     }
 21 };
-
+</pre>
  
 
 Interleaving String
@@ -2413,7 +2427,7 @@ Interleaving String
 看到网上也都是O(n^2)的解法，我也就放心了。。。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool isInterleave(string s1, string s2, string s3) {
@@ -2429,14 +2443,14 @@ Interleaving String
 13         return dp[s1.length()][s2.length()];
 14     }
 15 };
-
+</pre>
  
 
 Unique Binary Search Trees II
 LeetCode目前为止感觉最暴力的。递归遍历所有情况，每次返回子问题（左右子树）的vector<TreeNode *>的解，两层循环组合这些解。
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2475,14 +2489,14 @@ LeetCode目前为止感觉最暴力的。递归遍历所有情况，每次返回
 36         return generate(1, n);
 37     }
 38 };
-
+</pre>
  
 
 Unique Binary Search Trees
  经典问题，卡特兰数，可递推，可用公式（公式用组合数，也要写循环）。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int COM(int n, int m)
@@ -2502,14 +2516,14 @@ Unique Binary Search Trees
 17 
 18     }
 19 };
-
+</pre>
  
 
 Binary Tree Inorder Traversal
  数据结构基础
 
 
-
+<pre>
  1 /**
  2  * Definition for binary tree
  3  * struct TreeNode {
@@ -2534,14 +2548,14 @@ Binary Tree Inorder Traversal
 22         return res;
 23     }
 24 };
-
+</pre>
  
 
 Restore IP Addresses
 四层递归枚举分割位置，判断数字范围和前导零，处理字符串。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<string> res;
@@ -2568,14 +2582,14 @@ Restore IP Addresses
 24         return res;
 25     }
 26 };
-
+</pre>
  
 
 Reverse Linked List II
  在表头添加一个“哨兵”会好写很多，额外的newhead可以帮助标记翻转之后更换了的头指针。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -2611,7 +2625,7 @@ Reverse Linked List II
 33         return tmp;
 34     }
 35 };
-
+</pre>
  
 
 Subsets II
@@ -2622,7 +2636,7 @@ Subsets II
 代码是用map的方法。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<int> > res;
@@ -2653,7 +2667,7 @@ Subsets II
 28         return res;
 29     }
 30 };
-
+</pre>
  
 
 Decode Ways
@@ -2664,7 +2678,7 @@ dp[i]  = if(一)dp[i-1] + if(二)dp[i-2]
 当 i 位置不为0，可加上 i - 1 位置的解。当当前位置和前一位置组成的两位数满足解码且高位不为0，可加上 i - 2 位置的解。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int numDecodings(string s) {
@@ -2679,14 +2693,14 @@ dp[i]  = if(一)dp[i-1] + if(二)dp[i-2]
 12         return dp[s.length()];
 13     }
 14 };
-
+</pre>
  
 
 Gray Code
 格雷码有多种生成方法，可参考维基百科。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     vector<int> grayCode(int n) {
@@ -2696,14 +2710,14 @@ Gray Code
 7         return res;
 8     }
 9 };
-
+</pre>
  
 
 Merge Sorted Array
  从后往前，对 A 来说一个萝卜一个坑，肯定不会破坏前面的数据。具体看代码。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void merge(int A[], int m, int B[], int n) {
@@ -2717,7 +2731,7 @@ Merge Sorted Array
 11         while(j >= 0) A[p --] = B[j --];
 12     }
 13 };
-
+</pre>
  
 
 Scramble String
@@ -2728,7 +2742,7 @@ Scramble String
 枚举分割位置，scrambled string要求字符串对应字母的个数是一致的，可以直接排序对比。递归终点是刚好只有一个字母。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string S1, S2;
@@ -2766,14 +2780,14 @@ Scramble String
 35         return DFS(0, 0, s1.length());
 36     }
 37 };
-
+</pre>
  
 
 Partition List
  分存大小最后合并。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -2810,7 +2824,7 @@ Partition List
 34         return shead != NULL ? shead : bhead;
 35     }
 36 };
-
+</pre>
  
 
 Maximal Rectangle
@@ -2819,7 +2833,7 @@ Maximal Rectangle
 找“最远位置”用迭代指针，理论复杂度略高于O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maximalRectangle(vector<vector<char> > &matrix) {
@@ -2865,11 +2879,12 @@ Maximal Rectangle
 43         return ans;
 44     }
 45 };
+</pre>
 
 用单调栈，理论复杂度O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maximalRectangle(vector<vector<char> > &matrix) {
@@ -2913,6 +2928,8 @@ Maximal Rectangle
 41         return ans;
 42     }
 43 };
+</pre>
+
 
 方法二：每个 '1' 的点当作一个矩形的底部，left[j]、right[j]、height[j]表示当前行第 j 个位置这个点向左、右、上伸展的最大矩形的边界，作为滚动数组，下一行的数据可以由上一行结果得到，总复杂度O(n^2)。
 
@@ -2923,7 +2940,7 @@ right[j] = min(这一行最右，right[j]（上一行最右）  );
 height[j] = height[j - 1] + 1;
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maximalRectangle(vector<vector<char> > &matrix) {
@@ -2968,14 +2985,14 @@ height[j] = height[j - 1] + 1;
 42         return ans;
 43     }
 44 };
-
+</pre>
  
 
 Largest Rectangle in Histogram
  参考上一题Maximal Rectangle方法一。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int largestRectangleArea(vector<int> &height) {
@@ -3006,14 +3023,14 @@ Largest Rectangle in Histogram
 28         return ans;
 29     }
 30 };
-
+</pre>
  
 
 Remove Duplicates from Sorted List II
  加个表头乱搞吧。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -3051,14 +3068,14 @@ Remove Duplicates from Sorted List II
 35         return head;
 36     }
 37 };
-
+</pre>
  
 
 Remove Duplicates from Sorted List
  直接操作。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -3086,14 +3103,14 @@ Remove Duplicates from Sorted List
 25         return head;
 26     }
 27 };
-
+</pre>
  
 
 Search in Rotated Sorted Array II
 以mid为界，左右两边至少有一边是有序的。由于不可避免地会有O(n)的可能性，所以确定的时候二分，不确定的时候单位缩减边界。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool search(int A[], int n, int target) {
@@ -3114,14 +3131,14 @@ Search in Rotated Sorted Array II
 18         return A[left] == target ? true : false;
 19     }
 20 };
-
+</pre>
  
 
 Remove Duplicates from Sorted Array II
  记下放了几个，多了不放。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int removeDuplicates(int A[], int n) {
@@ -3135,7 +3152,7 @@ Remove Duplicates from Sorted Array II
 11         return j;
 12     }
 13 };
-
+</pre>
  
 
 Word Search
@@ -3143,7 +3160,7 @@ Word Search
 基础DFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int dx[4] = {1, -1, 0, 0};
@@ -3180,14 +3197,14 @@ Word Search
 34         return false;
 35     }
 36 };
-
+</pre>
  
 
 Subsets
 基础DFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> now;
@@ -3210,14 +3227,14 @@ Subsets
 20         return res;
 21     }
 22 };
-
+</pre>
  
 
 Combinations
 基础DFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> now;
@@ -3242,7 +3259,7 @@ Combinations
 22         return res;
 23     }
 24 };
-
+</pre>
  
 
 Minimum Window Substring
@@ -3251,7 +3268,7 @@ Minimum Window Substring
 i 和 j 都只遍历一遍 S，复杂度 O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string minWindow(string S, string T) {
@@ -3284,7 +3301,7 @@ i 和 j 都只遍历一遍 S，复杂度 O(n)。
 30         return ans;
 31     }
 32 };
-
+</pre>
  
 
 Sort Colors
@@ -3292,7 +3309,7 @@ Sort Colors
 轮流找：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void sortColors(int A[], int n) {
@@ -3306,11 +3323,13 @@ Sort Colors
 11         }
 12     }
 13 };
+</pre>
+
 
 找到哪个放哪个：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void sortColors(int A[], int n) {
@@ -3327,14 +3346,14 @@ Sort Colors
 14         }
 15     }
 16 };
-
+</pre>
  
 
 Search a 2D Matrix
 写两个二分查找。或者把整个矩阵看作一维，直接二分，换算坐标。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool searchMatrix(vector<vector<int> > &matrix, int target) {
@@ -3357,14 +3376,14 @@ Search a 2D Matrix
 20         return a[left] == target;
 21     }
 22 };
-
+</pre>
  
 
 Set Matrix Zeroes
 O(m+n)的方法是容易想到的，而空间复杂度O(1)，只要利用原矩阵的一行和一列来使用O(m+n)的方法就行了。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void setZeroes(vector<vector<int> > &matrix) {
@@ -3396,14 +3415,14 @@ O(m+n)的方法是容易想到的，而空间复杂度O(1)，只要利用原矩�
 29         for(int j = 0; j < matrix[0].size(); j ++) matrix[x][j] = 0;
 30     }
 31 };
-
+</pre>
  
 
 Edit Distance
  动态规划，先初始化 dp[i][0] 和 dp[0][i]，即每个字符串对应空串的编辑距离为串长度，之后对每个位置取子问题加上当前位置 改、删、增得解的最小值。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int minDistance(string word1, string word2) {
@@ -3421,14 +3440,14 @@ Edit Distance
 15         return dp[word1.length()][word2.length()];
 16     }
 17 };
-
+</pre>
  
 
 Simplify Path
  好烦人的题，没什么好说的。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string simplifyPath(string path) {
@@ -3463,14 +3482,14 @@ Simplify Path
 32         return str;
 33     }
 34 };
-
+</pre>
  
 
 Climbing Stairs
  递推，就是斐波那契数列。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     int climbStairs(int n) {
@@ -3479,7 +3498,7 @@ Climbing Stairs
 6             pow((1-sqrt(5))/2, n + 1) / sqrt(5) + 0.1);
 7     }
 8 };
-
+</pre>
  
 
 Sqrt(x)
@@ -3492,7 +3511,7 @@ Sqrt(x)
 那么递推下去，x[i]=(x[i-1]+n/x[i-1])/2，用double，越推越精确，直到自己想要的精度。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int sqrt(int x) {
@@ -3506,7 +3525,7 @@ Sqrt(x)
 11         return (int)(now + 1e-6);
 12     }
 13 };
-
+</pre>
  
 
 Text Justification
@@ -3515,7 +3534,7 @@ Text Justification
 最后一行特别处理，单词间只有一个空格，剩下的放在末尾。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<string> fullJustify(vector<string> &words, int L) {
@@ -3558,14 +3577,14 @@ Text Justification
 40         return ans;
 41     }
 42 };
-
+</pre>
  
 
 Plus One
 大整数加法。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> plusOne(vector<int> &digits) {
@@ -3581,14 +3600,14 @@ Plus One
 13         return digits;
 14     }
 15 };
-
+</pre>
  
 
 Valid Number
 用DFA也不麻烦，题目定义太模糊，为了理解规则错很多次也没办法。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3 
@@ -3640,7 +3659,7 @@ Valid Number
 49         return DFA(s);
 50     }
 51 };
-
+</pre>
  
 
 Add Binary
@@ -3648,7 +3667,7 @@ Add Binary
 翻转，大整数加法，再翻转。无心情优化。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string addBinary(string a, string b) {
@@ -3674,7 +3693,7 @@ Add Binary
 23         return c;
 24     }
 25 };
-
+</pre>
  
 
 Merge Two Sorted Lists
@@ -3682,7 +3701,7 @@ Merge Two Sorted Lists
 归并排序的一次操作，设个哨兵头结点，结束后free。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -3707,7 +3726,7 @@ Merge Two Sorted Lists
 22         return p;
 23     }
 24 };
-
+</pre>
  
 
 Minimum Path Sum
@@ -3715,7 +3734,7 @@ Minimum Path Sum
 递推
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int minPathSum(vector<vector<int> > &grid) {
@@ -3733,14 +3752,14 @@ Minimum Path Sum
 15         return grid[grid.size() - 1][grid[0].size() - 1];
 16     }
 17 };
-
+</pre>
  
 
 Unique Paths II
  递推
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int uniquePathsWithObstacles(vector<vector<int> > &obstacleGrid) {
@@ -3761,7 +3780,7 @@ Unique Paths II
 18         return obstacleGrid[obstacleGrid.size() - 1][obstacleGrid[0].size() - 1];
 19     }
 20 };
-
+</pre>
  
 
 Unique Paths
@@ -3769,7 +3788,7 @@ Unique Paths
 这是当年学组合数时候的经典题型吧。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int COM(int a, int b)
@@ -3788,14 +3807,14 @@ Unique Paths
 16         return COM(m + n - 2, m - 1);
 17     }
 18 };
-
+</pre>
  
 
 Rotate List
 因为k可能比长度大，需要求长度然后k对长度取模。那么就不要矫情地追求双指针一遍扫描了。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -3819,14 +3838,14 @@ Rotate List
 21         return en;
 22     }
 23 };
-
+</pre>
  
 
 Permutation Sequence
  一位一位算，每一位优先没使用过的较小的数字，而其后剩下的m个位置有 m! 种排列方法，用 k 减去，直到k不大于这个方法数，则这一位就是枚举到的这个数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int permu[10];
@@ -3850,7 +3869,7 @@ Permutation Sequence
 21         return ans;
 22     }
 23 };
-
+</pre>
  
 
 Spiral Matrix II
@@ -3859,7 +3878,7 @@ Spiral Matrix II
 先看当前位置之外有几个嵌套的正方形，再看当前位置在当前正方形四条边的第几条，求出坐标(x,y)位置的数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<int> > res;
@@ -3890,7 +3909,7 @@ Spiral Matrix II
 28         return res;
 29     }
 30 };
-
+</pre>
  
 
 Length of Last Word 
@@ -3898,7 +3917,7 @@ Length of Last Word
  从后往前找。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     int lengthOfLastWord(const char *s) {
@@ -3908,14 +3927,14 @@ Length of Last Word
 7         return i < 0 ? 0 : i - j;
 8     }
 9 };
-
+</pre>
  
 
 Insert Interval
 end 比 newInterval 的 start 小的 intervals 直接插入，从 end 比 newInterval 的 start 大的 intervals 开始，到 start 比 newInterval 的 end 大的 intervals 结束，对这部分区间合并，再把之后的 intervals直接插入，特判 newInterval 最小和最大两种极端情况。
 
 
-
+<pre>
  1 /**
  2  * Definition for an interval.
  3  * struct Interval {
@@ -3943,7 +3962,7 @@ end 比 newInterval 的 start 小的 intervals 直接插入，从 end 比 newInt
 25         return res;
 26     }
 27 };
-
+</pre>
  
 
 Merge Intervals
@@ -3951,7 +3970,7 @@ Merge Intervals
 先按start排个序，然后慢慢合并。。。
 
 
-
+<pre>
  1 /**
  2  * Definition for an interval.
  3  * struct Interval {
@@ -3981,14 +4000,14 @@ Merge Intervals
 27         return res;
 28     }
 29 };
-
+</pre>
  
 
 Jump Game
  维护最大可跳距离，每个位置都枚举一次。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool canJump(int A[], int n) {
@@ -3999,7 +4018,7 @@ Jump Game
  8         return i == n;
  9     }
 10 };
-
+</pre>
  
 
 Spiral Matrix
@@ -4008,7 +4027,7 @@ Spiral Matrix
 代码一：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int dx[4] = {0, 1, 0, -1};
@@ -4040,11 +4059,13 @@ Spiral Matrix
 29         return res;
 30     }
 31 };            
+</pre>
+
 
 代码二：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int dx[4] = {0, 1, 0, -1};
@@ -4075,7 +4096,7 @@ Spiral Matrix
 28         return res;
 29     }
 30 };
-
+</pre>
  
 
 Maximum Subarray
@@ -4084,7 +4105,7 @@ Maximum Subarray
 一个变量 sum 表示当前求得的子串和，当 sum 小于0时，对后面的子串没有贡献，则把 sum 置零，中间处理一下要求至少包含一个数字的要求即可。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maxSubArray(int A[], int n) {
@@ -4098,7 +4119,7 @@ Maximum Subarray
 11         return ans;
 12     }
 13 };
-
+</pre>
  
 
 N-Queens II
@@ -4107,7 +4128,7 @@ N-Queens II
 老老实实开三个 bool 数组，一个标记纵列，另外两个标记两个斜列，一行一行DFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<bool> col, lc, rc;
@@ -4138,7 +4159,7 @@ N-Queens II
 28         return ans;
 29     }
 30 };
-
+</pre>
  
 
 N-Queens
@@ -4146,7 +4167,7 @@ N-Queens
 同上
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<string> tmp;
@@ -4182,7 +4203,7 @@ N-Queens
 33         return res;
 34     }
 35 };
-
+</pre>
  
 
 Pow(x, n)
@@ -4191,7 +4212,7 @@ Pow(x, n)
 经典的快速幂，用二进制理解也好，用折半理解也好，网上很多资料。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     double pow(double x, int n) {
@@ -4207,7 +4228,7 @@ Pow(x, n)
 13         return res;
 14     }
 15 };
-
+</pre>
  
 
 Anagrams
@@ -4218,7 +4239,7 @@ Anagrams
 手写hash能更快些，但是题目没给数据范围，给hash数组定多大都没合理性，干脆用unordered_map好了。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<string> res;
@@ -4240,7 +4261,7 @@ Anagrams
 19         return res;
 20     }
 21 };
-
+</pre>
  
 
 Rotate Image
@@ -4248,7 +4269,7 @@ Rotate Image
 四个一组，就地旋转。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void rotate(vector<vector<int> > &matrix) {
@@ -4266,7 +4287,7 @@ Rotate Image
 15             }
 16     }
 17 };
-
+</pre>
  
 
 Permutations II
@@ -4275,7 +4296,7 @@ Permutations II
 也可以把数组排序，DFS时跳过重复的数字。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     unordered_map<int, int> mp;
@@ -4311,7 +4332,7 @@ Permutations II
 33         return res;
 34     }
 35 };
-
+</pre>
  
 
 Permutations
@@ -4320,7 +4341,7 @@ Permutations
 传统DFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<int> > res;
@@ -4343,14 +4364,14 @@ Permutations
 20         return res;
 21     }
 22 };
-
+</pre>
  
 
 Jump Game II
 维护一步最远到达的位置，到达这个位置之前的位置需要的步数都是一样的，到达这个位置的时候，下一步的最远位置已经更新完毕。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int jump(int A[], int n) {
@@ -4367,7 +4388,7 @@ Jump Game II
 14         return pace;
 15     }
 16 };
-
+</pre>
  
 
 Wildcard Matching
@@ -4375,7 +4396,7 @@ Wildcard Matching
 同步扫描两个字符串，每当 p 遇到 '*' ，记录s和p的当前扫描位置，当 s 与 p 不匹配时，跑扫描指针回到 '*' 后一个字符， s 扫描指针回到上次遇到 '*' 之后与 p 开始匹配位置的下一个位置。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool isMatch(const char *s, const char *p) {
@@ -4391,14 +4412,14 @@ Wildcard Matching
 13         return !s[i] && !p[j];
 14     }
 15 };
-
+</pre>
  
 
 Multiply Strings
  翻转num1和num2，大整数乘法，把结果再翻转。注意 int 和 char 的转换。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string multiply(string num1, string num2) {
@@ -4428,14 +4449,14 @@ Multiply Strings
 27         return ans;
 28     }
 29 };
-
+</pre>
  
 
 Trapping Rain Water
  对于每个位置，取这个位置“左边最高的”和“右边最高的”的”较低者“，如果“较低者”比这个位置高，则这个位置存水高度为“较低者”减该位置高度。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int trap(int A[], int n) {
@@ -4454,7 +4475,7 @@ Trapping Rain Water
 16         return ans;
 17     }
 18 };
-
+</pre>
  
 
 First Missing Positive
@@ -4465,7 +4486,7 @@ First Missing Positive
 剔除非整数，把原数组 A 当作存在标记，存在的数 x 则 A[x-1]取负数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int firstMissingPositive(int A[], int n) {
@@ -4479,12 +4500,14 @@ First Missing Positive
 11         return j + 1;
 12     }
 13 };
+</pre>
+
 
 方法二：
 把出现的符合范围的数swap到下标和数对应的位置，再次遍历，数和下标不对应则是第一个没出现的数。注意处理有重复数字。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int firstMissingPositive(int A[], int n) {
@@ -4497,14 +4520,14 @@ First Missing Positive
 10         return i + 1;
 11     }
 12 };
-
+</pre>
  
 
 Combination Sum
 基础DFS
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> tmp;
@@ -4533,14 +4556,14 @@ Combination Sum
 26         return ans;
 27     }
 28 };
-
+</pre>
  
 
 Combination Sum II
 如果一个数没有被用，那么后面重复的这个数就别用，避免重复解。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> tmp;
@@ -4570,14 +4593,14 @@ Combination Sum II
 27         return ans;
 28     }
 29 };
-
+</pre>
  
 
 Count and Say
 直接模拟，递推。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string countAndSay(int n) {
@@ -4598,7 +4621,7 @@ Count and Say
 18         return f[n & 1 ^ 1];
 19     }
 20 };
-
+</pre>
  
 
 Sudoku Solver
@@ -4607,7 +4630,7 @@ Sudoku Solver
 关于dancing links，对于面试题来说变态了些，应该不至于考察。
 
 
-
+<pre>
   1 class Solution {
   2 public:
   3     int rw[10], cl[10], in[10], RW[81], CL[81], IN[81], goal;
@@ -4726,14 +4749,14 @@ Sudoku Solver
 116                 board[i][j] = buf[site ++];
 117     }
 118 };
-
+</pre>
  
 
 Valid Sudoku
 行列九宫格都判断一下。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool isValidSudoku(vector<vector<char> > &board) {
@@ -4758,14 +4781,14 @@ Valid Sudoku
 22         return true;
 23     }
 24 };
-
+</pre>
  
 
 Search Insert Position
  二分
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int searchInsert(int A[], int n, int target) {
@@ -4780,7 +4803,7 @@ Search Insert Position
 12         return left;
 13     }
 14 };
-
+</pre>
  
 
 Search for a Range
@@ -4789,7 +4812,7 @@ Search for a Range
 手工代码：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> searchRange(int A[], int n, int target) {
@@ -4813,11 +4836,13 @@ Search for a Range
 21         return ans;
 22     }
 23 };
+</pre>
+
 
 STL：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> searchRange(int A[], int n, int target) {
@@ -4828,14 +4853,14 @@ STL：
  8         return ans;
  9     }
 10 };
-
+</pre>
  
 
 Search in Rotated Sorted Array
 还是二分，但是要判断一下 mid 在哪部分里。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int search(int A[], int n, int target) {
@@ -4858,7 +4883,7 @@ Search in Rotated Sorted Array
 20         return A[left] == target ? left : -1;
 21     }
 22 };
-
+</pre>
  
 
 Longest Valid Parentheses
@@ -4868,7 +4893,7 @@ Longest Valid Parentheses
 对不同深度的括号配对统计个数，一层配对成功把该层统计结果加给上一层，这一层清空。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int longestValidParentheses(string s) {
@@ -4893,7 +4918,7 @@ Longest Valid Parentheses
 22         return ans;
 23     }
 24 };
-
+</pre>
  
 
 Next Permutation
@@ -4901,7 +4926,7 @@ Next Permutation
 从后往前找到第一个非降序的 num[i]，再重新从后往前找到第一个比 num[i] 大的，swap(num[i], num[j])，再把 i 之后的排序。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     void nextPermutation(vector<int> &num) {
@@ -4917,7 +4942,7 @@ Next Permutation
 13             reverse(num.begin(), num.end());
 14     }
 15 };
-
+</pre>
  
 
 Substring with Concatenation of All Words
@@ -4930,12 +4955,13 @@ Substring with Concatenation of All Words
 
 (0) (1) (2) (3) (0) (1) (2) (3) (0) (1) (2) (3) (0) (1) (2) (3) (0) (1) (2) (3) (0)
 0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18  19  20
+
 对每个序列，用单调队列的思路来处理，一个一个子串入队，当包含了 L 中所有 string 的时候，保存答案。当新元素入队时超出统计允许时——即 L 中有 3 个 "str", 而这时候遇到第 4 个——则开始出队，一直出到队列里不足 3 个 "str"，然后继续。
 
 这样复杂度为O(L[0].length() * S.length() / L[0].length()) = O(S.length())。目前提交结果是180ms。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> findSubstring(string S, vector<string> &L) {
@@ -5000,7 +5026,7 @@ Substring with Concatenation of All Words
 62         return ans;
 63     }
 64 };
-
+</pre>
  
 
 Divide Two Integers
@@ -5011,7 +5037,7 @@ Divide Two Integers
 （如果转成正数的话，int 的 -(-2147483648)还是 -2147483648。。）
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int divide(int dividend, int divisor) {
@@ -5038,14 +5064,14 @@ Divide Two Integers
 24         return flag ? -ans : ans;
 25     }
 26 };
-
+</pre>
  
 
 Implement strStr()
  KMP。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     char *strStr(char *haystack, char *needle) {
@@ -5073,14 +5099,14 @@ Implement strStr()
 25         return NULL;
 26     }
 27 };
-
+</pre>
  
 
 Remove Element
 两个游标 i, j 异步挪动，把不等于给定值的数往前挪。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     int removeElement(int A[], int n, int elem) {
@@ -5090,14 +5116,14 @@ Remove Element
 7         return j;
 8     }
 9 };
-
+</pre>
  
 
 Remove Duplicates from Sorted Array
 两个游标 i, j 异步挪动，不重复值往前挪。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     int removeDuplicates(int A[], int n) {
@@ -5107,7 +5133,7 @@ Remove Duplicates from Sorted Array
 7         return n ? j : 0;
 8     }
 9 };
-
+</pre>
  
 
 Reverse Nodes in k-Group
@@ -5115,7 +5141,7 @@ Reverse Nodes in k-Group
 用头插法来做的，顺序插入到首节点之后，就反转了。每 k 个节点处理之后，把首节指针点移动到下 k 个的开头。最后面不足 k 个的话，再反转回来。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -5153,7 +5179,7 @@ Reverse Nodes in k-Group
 35         return tmphead->next;
 36     }
 37 };
-
+</pre>
  
 
 Swap Nodes in Pairs
@@ -5161,7 +5187,7 @@ Swap Nodes in Pairs
 Reverse Nodes in k-Group的简化版。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -5188,14 +5214,14 @@ Reverse Nodes in k-Group的简化版。
 24         return tmphead->next;
 25     }
 26 };
-
+</pre>
  
 
 Merge k Sorted Lists
 一个堆（这里用了优先级队列），把所有 list 的首元素放堆里，O(logn)取得最小值插入新队列，异步推进。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -5226,14 +5252,14 @@ Merge k Sorted Lists
 28         return tmphead->next;
 29     }
 30 };
-
+</pre>
  
 
 Generate Parentheses
 DFS，保持当前右括号不多于左括号。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string tmp;
@@ -5262,7 +5288,7 @@ DFS，保持当前右括号不多于左括号。
 26         return ans;
 27     }
 28 };
-
+</pre>
  
 
 Valid Parentheses
@@ -5270,7 +5296,7 @@ Valid Parentheses
 用栈配对。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool isValid(string s) {
@@ -5297,14 +5323,14 @@ Valid Parentheses
 24         return st.empty();
 25     }
 26 };
-
+</pre>
  
 
 Remove Nth Node From End of List
 两个指针相隔 n 距离，前面的指针到了末尾，后面的指针就是删除的位置。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -5331,14 +5357,14 @@ Remove Nth Node From End of List
 24         return newhead->next;
 25     }
 26 };
-
+</pre>
  
 
 Letter Combinations of a Phone Number
 基础DFS。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     const vector<string> v = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
@@ -5363,7 +5389,7 @@ Letter Combinations of a Phone Number
 22         return ans;
 23     }
 24 };
-
+</pre>
  
 
 4Sum
@@ -5372,7 +5398,7 @@ Letter Combinations of a Phone Number
 O(n^3)方法，先对num排序，然后从两头枚举两个数，O(n^2)，后两个数在前两个数之间的两端开始，和小了左边的往右，和大了右边的往左调整，O(n)，总共O(n^3)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<int> > ans;
@@ -5406,14 +5432,14 @@ O(n^3)方法，先对num排序，然后从两头枚举两个数，O(n^2)，后�
 31         return ans;
 32     }
 33 };
-
+</pre>
  
 
 3Sum Closest
 O(n^2)，先排序，枚举第一个数，后两个数一个在第一个数后边一个开始，一个从 末尾开始，和4Sum类似调整。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int threeSumClosest(vector<int> &num, int target) {
@@ -5435,14 +5461,14 @@ O(n^2)，先排序，枚举第一个数，后两个数一个在第一个数后�
 19         return ans;
 20     }
 21 };
-
+</pre>
  
 
 3Sum
 同上。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<vector<int> > ans;
@@ -5471,14 +5497,14 @@ O(n^2)，先排序，枚举第一个数，后两个数一个在第一个数后�
 26         return ans;
 27     }
 28 };
-
+</pre>
  
 
 Longest Common Prefix
  一个一个扫
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string ans;
@@ -5494,7 +5520,7 @@ Longest Common Prefix
 13         return ans;
 14     }
 15 };
-
+</pre>
  
 
 Roman to Integer
@@ -5502,7 +5528,7 @@ Roman to Integer
 各有各的方法，重点是记录“上一个”数比“这个”数大或小，来确定谁减谁。基本是右结合的，所以从后往前扫好处理些。
 
 
-
+<pre>
 class Solution {
 public:
     int ro[128];
@@ -5528,14 +5554,14 @@ public:
         return ans;
     }
 };
-
+</pre>
  
 
 Integer to Roman
 每个十进制位格式是一样的，只是字母替换一下。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<string> table = {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
@@ -5559,7 +5585,7 @@ Integer to Roman
 21         return ans;
 22     }
 23 };
-
+</pre>
  
 
 Container With Most Water
@@ -5567,7 +5593,7 @@ Container With Most Water
 从两端开始枚举，较高的挡板往中间枚举的话一定无法得到更优解，故反复从较低挡板向中间枚举，O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int maxArea(vector<int> &height) {
@@ -5581,7 +5607,7 @@ Container With Most Water
 11         return ans;
 12     }
 13 };
-
+</pre>
  
 
 Regular Expression Matching
@@ -5590,7 +5616,7 @@ Regular Expression Matching
 没有 '*' 的情况好处理，遇到 '*' 的时候，穷举所有匹配长度。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool isMatch(const char *s, const char *p) {
@@ -5609,7 +5635,7 @@ Regular Expression Matching
 16         }
 17     }
 18 };
-
+</pre>
  
 
 Palindrome Number
@@ -5618,7 +5644,7 @@ Palindrome Number
 但是注意到 x 很大的时候，翻转的 x 会超出 int 范围，也许会刚好成为另一个和 a 得出的数相等的正数，所以不能完全翻转后判断，而可以在翻转恰好一半的时候判断。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     bool isPalindrome(int x) {
@@ -5635,14 +5661,14 @@ Palindrome Number
 14         return false;
 15     }
 16 };
-
+</pre>
  
 
 String to Integer (atoi)
 任何类似多符号、符号数字间有空格的小问题都直接输出 0，这就好办了。处理越界用 long long。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int atoi(const char *str) {
@@ -5660,14 +5686,14 @@ String to Integer (atoi)
 15         return (int)(flag ? -ans : ans);
 16     }
 17 };
-
+</pre>
  
 
 Reverse Integer
 还是关于越界的讨论，不过这道题本身没有设置处理方式，重点在于面试时的交流。
 
 
-
+<pre>
 1 class Solution {
 2 public:
 3     int reverse(int x) {
@@ -5677,22 +5703,25 @@ Reverse Integer
 7         return x >= 0 ? a : -a;
 8     }
 9 };
-
+</pre>
  
 
 ZigZag Conversion
 
 题意的 "z" 字形指一列nRows个，然后斜着往右上一格一个回到第一行，然后再一列nRows个。比如nRows=5，如下：
 
+<pre>
 1   　   　   　   9   　   　   　   17  　   　   　   25  　   　
 2   　   　   8   10  　   　   16  18  　   　   24  26  　   　
 3   　   7   　   11  　   15  　   19  　   23  　   27  　   …
 4   6   　   　   12  14  　   　   20  22  　   　   28  30  　
 5   　   　   　   13  　   　   　   21  　   　   　   29  　   　
+</pre>
+
 每行字母在原字符串中的间隔是有规律的，虽然两层for循环，但是s中每个字母只访问了一次，O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string convert(string s, int nRows) {
@@ -5709,7 +5738,7 @@ ZigZag Conversion
 14         return ans;
 15     }
 16 };
-
+</pre>
  
 
 Longest Palindromic Substring
@@ -5727,7 +5756,7 @@ Longest Palindromic Substring
 核心问题在于第4步“对 i 为中心的回文串进行扩展”的复杂度。每次发生“对 i 扩展“，必然是对 reach 的扩展(也可能刚好不扩展，这个不影响复杂度），而 reach 的扩展范围是 tmp 的长度大约 2n，所以总复杂度为 O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     string longestPalindrome(string s) {
@@ -5752,14 +5781,14 @@ Longest Palindromic Substring
 22         return s.substr(ansstart, anslength);
 23     }
 24 };
-
+</pre>
  
 
 Add Two Numbers
 大整数加法的链表版。
 
 
-
+<pre>
  1 /**
  2  * Definition for singly-linked list.
  3  * struct ListNode {
@@ -5787,7 +5816,7 @@ Add Two Numbers
 25         return ans;
 26     }
 27 };
-
+</pre>
  
 
 Longest Substring Without Repeating Characters
@@ -5797,7 +5826,7 @@ Longest Substring Without Repeating Characters
 代码一：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int lengthOfLongestSubstring(string s) {
@@ -5813,11 +5842,12 @@ Longest Substring Without Repeating Characters
 13         return ans;
 14     }
 15 };
+</pre>
 
 代码二：
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int lengthOfLongestSubstring(string s) {
@@ -5833,7 +5863,7 @@ Longest Substring Without Repeating Characters
 13         return ans;
 14     }
 15 };
-
+</pre>
  
 
 Median of Two Sorted Arrays
@@ -5844,7 +5874,7 @@ Median of Two Sorted Arrays
 利用这个性质迭代找 A 与 B 合并后的第 k 大数。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     int findKth(int A[], int m, int B[], int n, int k)
@@ -5869,14 +5899,14 @@ Median of Two Sorted Arrays
 22             findKth(A, m, B, n, (m + n >> 1) + 1)) * 0.5;
 23     }
 24 };
-
+</pre>
  
 
 Two Sum
 哈希存位置，O(n)。
 
 
-
+<pre>
  1 class Solution {
  2 public:
  3     vector<int> twoSum(vector<int> &numbers, int target) {
@@ -5895,3 +5925,6 @@ Two Sum
 16         return ans;
 17     }
 18 };
+</pre>
+
+
