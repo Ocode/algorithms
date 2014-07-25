@@ -33,7 +33,8 @@
 function turnRPN(input){
     // 传入用户输入的表达式 input = '3+2*6-5' '3+2*(6-5)';
     // 注意，以下方法会拆分二位以上数字
-    var str = input.replace(/\s/g,'').split(''),    //存储原算术表达式
+    //var str = input.replace(/\s/g,'').split(''),    //存储原算术表达式
+    var str = input.replace(/\s/g,'').match(/\d+|\D/g),    //存储原算术表达式
         stack = ['#'],  //作为栈使用
         result = [],    //存储后缀表达式
         oper;           //操作符（非数字）
@@ -203,15 +204,15 @@ function prnToInfix(prn){
         operators = "+-*/",
         numsStack = [];
     infixEq.stepEqs.push(prnToEq(prn));
-    for(i=0,len = tokens.length;i<len;i++){
+    for(var i=0,j=0,len = tokens.length;i<len;i++){
         var t = tokens[i];
         if(operators.indexOf(t)==-1){
             //当前非运算符，则存入，否则弹出两个数字做运算并存入
             numsStack.push(parseInt(t,10));
             //console.log(t);
         }else{
-            var a = parseInt(numsStack.pop(),10),
-                b = parseInt(numsStack.pop(),10);
+            var a = parseInt(numsStack.pop(),10)||0,
+                b = parseInt(numsStack.pop(),10)||0;
             switch(t){
                 case "+":
                     numsStack.push(a+b);
@@ -231,19 +232,20 @@ function prnToInfix(prn){
                     }
                     break;
             }
+            j++;
             //var index = function(){return i};
-            (function(arg,tt){
+            (function(i,j,tt){
                 //console.log(tokens.slice(arg))
-                infixEq.stepPrn[arg] = numsStack.concat(tokens.slice(arg+1));
-                infixEq.stepEqs.push(prnToEq(infixEq.stepPrn[arg],tt))
-                //console.log(infixEq.stepEqs[arg]);
-            })(i,t);
+                infixEq.stepPrn[j] = numsStack.concat(tokens.slice(i+1));
+                infixEq.stepEqs.push(prnToEq(infixEq.stepPrn[j],tt))
+                //console.log(infixEq.stepPrn);
+                //console.log(infixEq.stepEqs);
+            })(i,j,t);
             
             //resultHTML += ('='+  +'<br>');
             //console.log(numsStack);
         }
     }
-    console.log(infixEq.stepEqs)
     infixEq.result = parseInt(numsStack.pop(),10);
     return infixEq;
 }
@@ -268,7 +270,7 @@ var resultHTML = '';
 //原始等式
 
 equal[0].onclick = function(){
-    var input = inputBox[0].value || '3+4*2-6';//3+2*(6-5)-1
+    var input = inputBox[0].value || '22-4*(6-(2+1))+1';//'3+4*2-6';//3+2*(6-5)-1
     var oriEq = input;
     //转为逆波兰式
     var prnEq = turnRPN(input);
@@ -278,7 +280,7 @@ equal[0].onclick = function(){
     
     //逆波兰式转为中缀表达式,并计算中间步骤
     //console.log(prnToInfix(prnEq).stepEqs)
-    resultHTML += prnToInfix(prnEq).stepEqs.join('<br>=');
+    resultHTML += (prnToInfix(prnEq).stepEqs.join('<br>=')+'<br><br>');
 
     //resultHTML += ('=' + result + '<br><br>');
     outBox.innerHTML = resultHTML;
@@ -290,7 +292,7 @@ equal[0].onclick = function(){
 //逆波兰式转为中缀表达式
 function prnToEq(prn){
     var prn = prn || ["2", "3", "1", "-", "*", "4", "+"];   //["3", "4", "2", "*", "+", "6", "-"];
-    console.log(prn);
+    //console.log(prn);
     var returnValue = 0,
         operators = "+-*/",
         numsStack = [];
@@ -302,13 +304,15 @@ function prnToEq(prn){
             numsStack.push(String(t));
             //console.log(t);
         }else{
-            var a = numsStack.pop(),
-                b = numsStack.pop();
+            var a = numsStack.pop()||0,
+                b = numsStack.pop()||0;
             switch(t){
                 case "+":
+                    a = getOperLevel(a,'+') ? ('('+ a +')') : a;
                     numsStack.push(b+ '+' +a);
                     break;
                 case "-":
+                    a = getOperLevel(a,'-') ? ('('+ a +')') : a;
                     numsStack.push(b+ '-' +a);
                     break;
                 case "*":
@@ -352,9 +356,9 @@ function getOperLevel(str,oper){
 
     if(str.length == 1){
         level = operLevel[str];
-        return !oper ? level : (level > operLevel[oper]) ? true : false;
+        return !oper ? level : (level >= operLevel[oper]) ? true : false;
     }
-    var opers = str.replace(/\s|\d/g,'').split('');
+    var opers = str.replace(/\s|\d|\(.+\)/g,'').split('');
 
     for(var i=0,len = opers.length;i<len;i++){
         var temp = operLevel[opers[i]]
@@ -363,7 +367,7 @@ function getOperLevel(str,oper){
         }
     }
     if(oper){
-        return (level > operLevel[oper]) ? true : false;
+        return (level >= operLevel[oper]) ? true : false;
     }else{
         return level;
     }
